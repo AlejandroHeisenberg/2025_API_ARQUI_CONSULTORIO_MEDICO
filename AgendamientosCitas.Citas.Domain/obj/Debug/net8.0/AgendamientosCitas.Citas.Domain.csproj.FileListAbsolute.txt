@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.deps.json
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Domain.dll

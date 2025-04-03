@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.deps.json
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Infrastruture.Repositories.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Repositories.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Repositories\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Infrastruture.Repositories.dll

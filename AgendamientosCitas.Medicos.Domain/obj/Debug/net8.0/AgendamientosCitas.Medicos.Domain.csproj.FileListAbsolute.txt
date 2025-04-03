@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\bin\Debug\net8.0\AgendamientosCitas.Medicos.Domain.deps.json
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\bin\Debug\net8.0\AgendamientosCitas.Medicos.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\bin\Debug\net8.0\AgendamientosCitas.Medicos.Domain.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\refint\AgendamientosCitas.Medicos.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\ref\AgendamientosCitas.Medicos.Domain.dll

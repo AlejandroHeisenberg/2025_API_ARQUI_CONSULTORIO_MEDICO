@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AgendamientosCitas.Citas.Api.props" />
+</Project>

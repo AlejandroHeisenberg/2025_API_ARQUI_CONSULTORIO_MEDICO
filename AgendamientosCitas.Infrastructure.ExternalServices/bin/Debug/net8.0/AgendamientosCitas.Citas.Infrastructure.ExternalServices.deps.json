@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgendamientosCitas.Citas.Infrastructure.ExternalServices/1.0.0": {
+        "runtime": {
+          "AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgendamientosCitas.Citas.Infrastructure.ExternalServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

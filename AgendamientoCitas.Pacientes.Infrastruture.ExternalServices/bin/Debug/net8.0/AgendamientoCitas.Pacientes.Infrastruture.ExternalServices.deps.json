@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgendamientoCitas.Pacientes.Infrastruture.ExternalServices/1.0.0": {
+        "runtime": {
+          "AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgendamientoCitas.Pacientes.Infrastruture.ExternalServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

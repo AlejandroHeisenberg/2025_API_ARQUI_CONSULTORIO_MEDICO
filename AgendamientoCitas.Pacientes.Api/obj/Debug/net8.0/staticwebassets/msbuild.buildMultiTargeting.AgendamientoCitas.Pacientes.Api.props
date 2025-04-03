@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgendamientoCitas.Pacientes.Api.props" />
+</Project>

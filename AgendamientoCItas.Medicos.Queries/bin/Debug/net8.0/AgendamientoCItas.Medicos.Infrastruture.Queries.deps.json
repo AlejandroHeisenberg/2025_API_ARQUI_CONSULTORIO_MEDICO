@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgendamientoCItas.Medicos.Infrastruture.Queries/1.0.0": {
+        "runtime": {
+          "AgendamientoCItas.Medicos.Infrastruture.Queries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgendamientoCItas.Medicos.Infrastruture.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

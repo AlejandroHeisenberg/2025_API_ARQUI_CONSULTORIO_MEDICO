@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "AgendamientoCitas.Medicos.Api.Controllers.MedicosController",
+    "Method": "GetAllMedicos",
+    "RelativePath": "api/Medicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendamientoCitas.Medicos.Api.Controllers.MedicosController",
+    "Method": "AddMedicos",
+    "RelativePath": "api/Medicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medico",
+        "Type": "AgendamientoCitas.Medicos.Application.Dtos.Dto.MedicoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendamientoCitas.Medicos.Api.Controllers.MedicosController",
+    "Method": "GetMedicosId",
+    "RelativePath": "api/Medicos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendamientoCitas.Medicos.Api.Controllers.MedicosController",
+    "Method": "UpdateMedicos",
+    "RelativePath": "api/Medicos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "medico",
+        "Type": "AgendamientoCitas.Medicos.Application.Dtos.Dto.MedicoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendamientoCitas.Medicos.Api.Controllers.MedicosController",
+    "Method": "DeleteMedicos",
+    "RelativePath": "api/Medicos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

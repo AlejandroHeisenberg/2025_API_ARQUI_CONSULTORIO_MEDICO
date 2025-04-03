@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.deps.json
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Application.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Application.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\Agendami.B5F3B0FA.Up2Date
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Infrastructure.Queries.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.Queries.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Infrastructure.Queries\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Infrastructure.Queries.dll

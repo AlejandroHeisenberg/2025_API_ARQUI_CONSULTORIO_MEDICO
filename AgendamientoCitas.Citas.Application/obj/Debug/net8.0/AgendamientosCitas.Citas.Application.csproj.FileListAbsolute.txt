@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\bin\Debug\net8.0\AgendamientosCitas.Citas.Application.deps.json
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\bin\Debug\net8.0\AgendamientosCitas.Citas.Application.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\bin\Debug\net8.0\AgendamientosCitas.Citas.Application.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\Agendami.D0D9EFD2.Up2Date
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Application.dll
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\AgendamientosCitas.Citas.Application.pdb
+C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Citas.Application\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Application.dll

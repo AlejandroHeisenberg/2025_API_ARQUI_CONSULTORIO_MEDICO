@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "69COfpfB1p9eD97u2CHoQTV1bMOKTNGmjXla75uLh5g=",
+  "Source": "AgendamientoCitas.Pacientes.Api",
+  "BasePath": "_content/AgendamientoCitas.Pacientes.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
