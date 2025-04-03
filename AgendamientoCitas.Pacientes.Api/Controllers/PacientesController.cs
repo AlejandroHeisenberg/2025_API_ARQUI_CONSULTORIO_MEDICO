@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AgendamientoCitas.Medicos.Application.Interfaces;
+using AgendamientoCitas.Medicos.Application.Services;
+using AgendamientoCitas.Pacientes.Application.Dtos.Dto;
+using AgendamientoCitas.Pacientes.Application.Interfaces;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AgendamientoCitas.Pacientes.Api.Controllers
@@ -7,6 +11,12 @@ namespace AgendamientoCitas.Pacientes.Api.Controllers
     [ApiController]
     public class PacientesController : ControllerBase
     {
+        private readonly IPacienteService _pacienteService;
+
+        public PacientesController(IPacienteService pacienteService)
+        {
+            _pacienteService = pacienteService;
+        }
         /// <summary>
         /// Acción para obtener todas las citas
         /// </summary>
@@ -14,7 +24,11 @@ namespace AgendamientoCitas.Pacientes.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllPacientes()
         {
-            return Ok();
+            var paciente = await _pacienteService.GetTodasLosPacienteAsync();
+            if (paciente == null) 
+                return NotFound(new { mensaje = "No se encontro ningun paciente"});
+            
+            return Ok(paciente);
         }
 
         /// <summary>
@@ -25,9 +39,11 @@ namespace AgendamientoCitas.Pacientes.Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetPacientesId(int id)
         {
+            var paciente = await _pacienteService.GetPacientePorIdAsync(id);
+            if (paciente == null)
+                return NotFound( new { mensaje = "Paciente no encontrado"});
 
-
-            return Ok();
+            return Ok(paciente);
         }
 
         /// <summary>
@@ -36,9 +52,14 @@ namespace AgendamientoCitas.Pacientes.Api.Controllers
         /// <param name="cita"></param>
         /// <returns></returns>
         [HttpPost]
-        public async Task<IActionResult> AddPacientes()//Cita cita)
+        public async Task<IActionResult> AddPacientes(PacienteDto paciente)
         {
-            return Ok();
+            var newPaciente = await _pacienteService.AddPacienteAsync(paciente);
+            if (!newPaciente)
+                return NotFound(new { mensaje = "Paciente no creado" });
+          
+
+            return Ok("Paciente Creado");
         }
 
         /// <summary>
@@ -48,9 +69,13 @@ namespace AgendamientoCitas.Pacientes.Api.Controllers
         /// <param name="cita"></param>
         /// <returns></returns>
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdatePacientes(int id)//, Cita cita)
+        public async Task<IActionResult> UpdatePacientes(int id, PacienteDto paciente)
         {
-            return Ok();
+            var editPaciente = await _pacienteService.UpdatePacienteAsync(id, paciente);
+            if (!editPaciente)
+                return NotFound(new { mensaje = "Paciente no actualizado" });
+            
+            return Ok("PAciente actualizado");
         }
 
         /// <summary>
