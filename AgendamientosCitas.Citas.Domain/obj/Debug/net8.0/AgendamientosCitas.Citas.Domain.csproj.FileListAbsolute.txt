@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Domain.dll
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.deps.json
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\bin\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\AgendamientosCitas.Citas.Domain.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Citas.Domain\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Domain.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendamientoCitas.Pacientes.Infrastruture.Queries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bcb6fca02146ccc7fb5a9158f295ef7e855b68b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85f731f24d187e887386b6a8bf9a7dd73b07c2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendamientoCitas.Pacientes.Infrastruture.Queries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendamientoCitas.Pacientes.Infrastruture.Queries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

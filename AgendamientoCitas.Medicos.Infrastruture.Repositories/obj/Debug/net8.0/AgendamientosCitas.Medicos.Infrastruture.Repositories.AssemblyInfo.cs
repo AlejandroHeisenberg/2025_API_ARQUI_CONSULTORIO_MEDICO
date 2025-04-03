@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendamientosCitas.Medicos.Infrastruture.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbe0372ec8da3b320360b2206e1d1fccab40d43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85f731f24d187e887386b6a8bf9a7dd73b07c2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendamientosCitas.Medicos.Infrastruture.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendamientosCitas.Medicos.Infrastruture.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infr
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Infrastruture.Queries.dll
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Infrastruture.Queries.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.deps.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Infrastruture.Queries.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.Queries.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.Queries\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Infrastruture.Queries.dll

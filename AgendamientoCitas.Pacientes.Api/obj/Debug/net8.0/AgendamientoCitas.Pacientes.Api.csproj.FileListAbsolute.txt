@@ -30,3 +30,14 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Api.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.csproj.AssemblyReference.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Api.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Api\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Api.pdb

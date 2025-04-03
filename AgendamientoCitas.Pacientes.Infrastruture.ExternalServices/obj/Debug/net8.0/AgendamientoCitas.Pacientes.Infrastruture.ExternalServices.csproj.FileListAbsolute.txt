@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infr
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.deps.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Infrastruture.ExternalServices.dll

@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Doma
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Domain.dll
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.deps.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\bin\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\refint\AgendamientoCitas.Pacientes.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\AgendamientoCitas.Pacientes.Domain.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientoCitas.Pacientes.Domain\obj\Debug\net8.0\ref\AgendamientoCitas.Pacientes.Domain.dll

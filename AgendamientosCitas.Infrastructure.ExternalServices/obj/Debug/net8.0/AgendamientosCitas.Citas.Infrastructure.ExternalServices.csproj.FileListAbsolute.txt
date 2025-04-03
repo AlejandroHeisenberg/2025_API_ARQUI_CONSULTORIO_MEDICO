@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Infrastructur
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\bin\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.deps.json
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\bin\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\bin\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\refint\AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\AgendamientosCitas.Citas.Infrastructure.ExternalServices.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Infrastructure.ExternalServices\obj\Debug\net8.0\ref\AgendamientosCitas.Citas.Infrastructure.ExternalServices.dll

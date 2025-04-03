@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domai
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\refint\AgendamientosCitas.Medicos.Domain.dll
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.pdb
 C:\Users\LENOVO\source\repos\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\ref\AgendamientosCitas.Medicos.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\bin\Debug\net8.0\AgendamientosCitas.Medicos.Domain.deps.json
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\bin\Debug\net8.0\AgendamientosCitas.Medicos.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\bin\Debug\net8.0\AgendamientosCitas.Medicos.Domain.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.AssemblyInfoInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.AssemblyInfo.cs
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.csproj.CoreCompileInputs.cache
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.sourcelink.json
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\refint\AgendamientosCitas.Medicos.Domain.dll
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\AgendamientosCitas.Medicos.Domain.pdb
+D:\Desarrollo\AgendamientosCitas\AgendamientosCitas.Medicos.Domain\obj\Debug\net8.0\ref\AgendamientosCitas.Medicos.Domain.dll
